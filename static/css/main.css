@@ -1,0 +1,23 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+  color: #FFFFFF;
+  background: #2B90D9;
+  align-items: center;
+}
+
+.jumbotron h1 {
+  font-weight: 700;
+}
+
+.container {
+	color: #282C37;
+	font-weight: 500;
+}
+
+.container .row p {
+	font-weight: 500;
+	font-size: 200%;
+}
